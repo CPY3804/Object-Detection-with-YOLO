@@ -12,8 +12,8 @@ Tech Stack：
   - ultralytics
     
 Tool Used：
-  ChatGPT
-  Resberry Pi 4B
+  - ChatGPT
+  - Resberry Pi 4B
 
 Optional：
   - 多個障礙物同時出現可能會有誤判的情況，太近也會有。
