@@ -10,7 +10,7 @@ Tech Stack：
   - anaconda
   - openCV
   - ultralytics
-  - 
+    
 Tool Used：
   ChatGPT
   Resberry Pi 4B
