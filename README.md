@@ -17,7 +17,7 @@ Tool Used：
 
 Optional：
   - 多個障礙物同時出現可能會有誤判的情況，太近也會有。
-  - 再樹梅派上部屬會遇到FPS的問題，可以利用串流來解決。
+  - 在樹梅派上部屬會遇到FPS的問題，可以利用串流來解決。
 
 References：
   - https://www.youtube.com/watch?v=zrp8uesadDg
